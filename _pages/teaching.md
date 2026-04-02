@@ -8,8 +8,18 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Teaching Assistant, CEMFI
 
-{% include courses.liquid %}
+- Energy Economics (graduate), Natalia Fabra
+- Regulation and Competition Policy (graduate), Gerard Llobet
+
+### Graduate Teaching Assistant, Sabanci University
+
+- Microeconomics II (graduate), Eren Inci
+- Industrial Organization (undergraduate), Esra Durceylan Kaygusuz
+- Macroeconomics I (graduate), Emrahan Aktug
+- Microeconomics (undergraduate), Yusuf Emre Akgunduz
+- Game Theory (undergraduate), Mehmet Barlo
+- Advanced Microeconomics (undergraduate), Mehmet Barlo
