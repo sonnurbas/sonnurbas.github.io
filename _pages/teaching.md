@@ -2,20 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: 
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-## Teaching
-
-### Teaching Assistant, CEMFI
+**Teaching Assistant, CEMFI**
 
 - Energy Economics (graduate), Natalia Fabra
 - Regulation and Competition Policy (graduate), Gerard Llobet
 
-### Graduate Teaching Assistant, Sabanci University
+**Graduate Teaching Assistant, Sabanci University**
 
 - Microeconomics II (graduate), Eren Inci
 - Industrial Organization (undergraduate), Esra Durceylan Kaygusuz
