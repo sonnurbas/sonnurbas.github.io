@@ -2,4 +2,4 @@ Hi! I’m Sonnur Bas, a third-year PhD student at [CEMFI](https://cemfi.es/). My
 
 You can check my [CV](/cv/) here.
 
-✉️ Feel free to reach out at sonnur.bas@cemfi.es.
+✉️ Feel free to reach out at [sonnur.bas@cemfi.edu.es](mailto:sonnur.bas@cemfi.edu.es).
