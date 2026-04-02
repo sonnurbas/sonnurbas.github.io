@@ -1,52 +1,52 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sonnur Bas",
+    "label": "",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sonnur.bas@cemfi.edu.es",
+    "phone": "",
+    "summary": "A third-year PhD student at CEMFI.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Calle Casado del Alisal, 5",
+      "postalCode": "28014",
+      "city": "Madrid",
+      "countryCode": "Spain",
+      "region": ""
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "CEMFI",
+      "position": "PhD in Economics",
+      "location": "Madrid, Spain",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Advisor: Natalia Fabra",
+      "highlights": ["", ""]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "CEMFI",
+      "position": "Master in Economics and Finance",
+      "location": "Madrid, Spain",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "Specialization: Microeconomic Analysis, Markets, and Competition",
+      "highlights": ["", ""]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "Sabanci University",
+      "position": "MA in Economics",
+      "location": "Istanbul, Turkey",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Thesis: An Experimental Study of Bilateral Dispute Resolution Mechanisms",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
+      "name": "bogazici University",
+      "position": "BA in Economics",
+      "location": "",
       "startDate": "1911-01-01",
       "endDate": "1917-01-01",
       "summary": "",
