@@ -8,6 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
+  inline: true
   more_info: >
     <p>Calle Casado del Alisal, 5</p>
     <p>Madrid, 28014</p>
