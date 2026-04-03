@@ -1,10 +1,7 @@
 {
   "basics": {
     "name": "Sonnur Bas",
-    "label": "",
-    "image": "",
     "email": "sonnur.bas@cemfi.edu.es",
-    "phone": "",
     "summary": "A third-year PhD student at CEMFI.",
     "location": {
       "address": "Calle Casado del Alisal, 5",
@@ -22,8 +19,7 @@
       "location": "Madrid, Spain",
       "startDate": "2025",
       "endDate": "",
-      "summary": "Advisor: Natalia Fabra",
-      "highlights": ["", ""]
+      "summary": "Advisor: Natalia Fabra"
     },
     {
       "name": "CEMFI",
@@ -31,8 +27,7 @@
       "location": "Madrid, Spain",
       "startDate": "2023",
       "endDate": "2025",
-      "summary": "Specialization: Microeconomic Analysis, Markets, and Competition",
-      "highlights": ["", ""]
+      "summary": "Specialization: Microeconomic Analysis, Markets, and Competition"
     },
     {
       "name": "Sabanci University",
@@ -40,26 +35,14 @@
       "location": "Istanbul, Turkey",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "Thesis: An Experimental Study of Bilateral Dispute Resolution Mechanisms",
-      "highlights": []
+      "summary": "Thesis: An Experimental Study of Bilateral Dispute Resolution Mechanisms"
     },
     {
-      "name": "bogazici University",
+      "name": "Bogazici University",
       "position": "BA in Economics",
       "location": "",
       "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "endDate": "1917-01-01"
     }
   ],
   "volunteer": [
