@@ -93,7 +93,7 @@
     }
   ],
   "skills": [
-    {
+    {"name": "Computing",
       "keywords": [
         "R",
         "Python",
