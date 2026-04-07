@@ -7,7 +7,7 @@ nav_order: 5
 description: ""
 ---
 
-[Download CV](/assets/pdf/sonnur_cv_pdf.pdf)
+[Download CV](/assets/pdf/cv.pdf)
 
 <iframe 
   src="/assets/pdf/sonnur_cv_pdf.pdf" 
