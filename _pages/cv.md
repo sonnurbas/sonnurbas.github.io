@@ -10,8 +10,8 @@ description: ""
 [Download CV](/assets/pdf/cv.pdf)
 
 <iframe 
-  src="/assets/pdf/sonnur_cv_pdf.pdf" 
+  src="/assets/pdf/cv.pdf" 
   width="100%" 
-  height="800px"
+  height="900px"
   style="border: none;">
 </iframe>
