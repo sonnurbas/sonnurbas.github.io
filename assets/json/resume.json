@@ -11,6 +11,45 @@
     },
     "profiles": []
   },
+"education": [
+    {
+      "institution": "CEMFI",
+      "location": "Madrid, Spain",
+      "url": "https://cemfi.es/",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2025",
+      "endDate": ""
+    },
+    {
+      "institution": "CEMFI",
+      "location": "Madrid, Spain",
+      "url": "https://cemfi.es/",
+      "area": "Economics",
+      "studyType": "Masters in Economics",
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+   {
+      "institution": "Sabanci University",
+      "location": "Istanbul, Turkey",
+      "url": "https://cemfi.es/",
+      "area": "Economics",
+      "studyType": "MA in Economics",
+      "startDate": "2021",
+      "endDate": "2023"
+    }, 
+   {
+      "institution": "Bogazici University",
+      "location": "Istanbul, Turkey",
+      "url": "https://cemfi.es/",
+      "area": "Economics",
+      "studyType": "BA in Economics",
+      "startDate": "2021",
+      "endDate": "2023"
+    } 
+  ],
+
   "work": [
     {
       "name": "CEMFI",
@@ -40,33 +79,8 @@
       "name": "Bogazici University",
       "position": "BA in Economics",
       "location": "",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01"
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2016",
+      "endDate": "2021"
     }
   ],
   "publications": [
