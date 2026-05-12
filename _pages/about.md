@@ -11,7 +11,10 @@ profile:
     <p>Calle Casado del Alisal, 5</p>
     <p>Madrid, 28014</p>
 
+social: true
+
 full_width: true
+sidebar: false
 
 selected_papers: false
 social: true
@@ -27,9 +30,9 @@ You can check my [CV](/cv/) here.
 
 ✉️ Feel free to reach out at [sonnur.bas@cemfi.edu.es](mailto:sonnur.bas@cemfi.edu.es).
 
-## Research
+<h2 style="font-size:22px;">Research</h2>
 
-### Work in Progress
+<h3 style="font-size:18px;">Work in Progress</h3>
 
 #### *Market Integration in Natural Gas: Evidence from the Spanish Market*
 
