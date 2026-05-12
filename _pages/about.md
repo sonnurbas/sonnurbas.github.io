@@ -13,7 +13,7 @@ profile:
     <p>Calle Casado del Alisal, 5</p>
     <p>Madrid, 28014</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -32,3 +32,13 @@ Hi! I’m Sonnur Bas, a third-year PhD student at [CEMFI](https://cemfi.es/). My
 You can check my [CV](/cv/) here.
 
 ✉️ Feel free to reach out at [sonnur.bas@cemfi.edu.es](mailto:sonnur.bas@cemfi.edu.es).
+
+## Research
+
+### Work in Progress
+
+#### *Market Integration in Natural Gas: Evidence from the Spanish Market*
+
+This project studies how institutional integration can improve efficiency in fragmented infrastructure markets.
+
+<a href="/assets/pdf/gas_market_paper.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">PDF</a>
