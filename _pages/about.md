@@ -30,6 +30,8 @@ You can check my [CV](/cv/) here.
 
 ✉️ Feel free to reach out at [sonnur.bas@cemfi.edu.es](mailto:sonnur.bas@cemfi.edu.es).
 
+<br clear="left">
+
 <h2 style="font-size:22px;">Research</h2>
 
 <h3 style="font-size:18px;">Work in Progress</h3>
