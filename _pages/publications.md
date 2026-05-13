@@ -7,12 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Research page with dynamic cards for projects -->
+<!-- Research page: full‑width cards, stacked vertically -->
 <style>
-  /* Consistent card style (similar to teaching, but adapted) */
-  .research-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  /* Cards take full width, stack vertically */
+  .research-list {
+    display: flex;
+    flex-direction: column;
     gap: 2rem;
     margin: 1.5rem 0 2rem;
   }
@@ -23,7 +23,8 @@ nav_order: 2
     padding: 1.4rem;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.02);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-    border-left: 5px solid #2c7da0; /* slightly different from teaching */
+    border-left: 5px solid #2c7da0;
+    width: 100%; /* full width of parent */
   }
 
   .research-card:hover {
@@ -32,7 +33,7 @@ nav_order: 2
   }
 
   .project-title {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-weight: 700;
     margin: 0.2rem 0 0.5rem;
     color: #0a2942;
@@ -40,7 +41,7 @@ nav_order: 2
   }
 
   .project-description {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     color: #2c5a74;
     margin: 0.75rem 0 1rem;
     line-height: 1.5;
@@ -52,7 +53,7 @@ nav_order: 2
     padding-top: 0.8rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 1.2rem;
   }
 
   .research-links a {
@@ -90,14 +91,15 @@ nav_order: 2
       padding: 1rem;
     }
     .project-title {
-      font-size: 1rem;
+      font-size: 1.1rem;
     }
   }
 </style>
 
-<!-- Work in Progress (has your current project) -->
+
+<!-- Work in Progress (full‑width cards, stacked) -->
 <div class="section-title">⚙️ Work in Progress</div>
-<div class="research-grid">
+<div class="research-list">
   <div class="research-card">
     <div class="project-title">Market Integration in Natural Gas: Evidence from the Spanish Market</div>
     <div class="project-description">
@@ -109,6 +111,6 @@ nav_order: 2
       <a href="#">📁 Code / Data (coming soon)</a>
     </div>
   </div>
-  <!-- You can add more WIP projects here, each as a new .research-card -->
+  <!-- Future projects: add another <div class="research-card"> here, it will appear below -->
 </div>
 
