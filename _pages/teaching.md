@@ -7,9 +7,9 @@ nav: true
 nav_order: 6
 calendar: true
 ---
-<!-- Teaching section: prominent CEMFI cards + compact Pre‑PhD list for Sabancı -->
+<!-- Teaching section: prominent CEMFI cards (static, no fake links) + simple list for Pre‑PhD -->
 <style>
-  /* CEMFI card styles (important) */
+  /* CEMFI cards – visually important, not clickable */
   .cemfi-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -24,7 +24,7 @@ calendar: true
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.02);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     border-left: 5px solid #1f6392;
-    cursor: pointer;
+    /* no cursor pointer */
   }
 
   .cemfi-card:hover {
@@ -54,73 +54,53 @@ calendar: true
     margin-bottom: 0.75rem;
   }
 
-  .pdf-link-placeholder {
-    font-size: 0.8rem;
+  .pdf-links {
     margin-top: 1rem;
     border-top: 1px solid #e9edf2;
     padding-top: 0.8rem;
     display: flex;
-    gap: 1rem;
+    gap: 1.2rem;
   }
 
-  .pdf-link-placeholder a {
+  .pdf-links a {
     text-decoration: none;
     color: #1f6392;
     font-weight: 500;
+    font-size: 0.85rem;
   }
 
-  /* Pre‑PhD / Sabancı section – compact and less fancy */
+  .pdf-links a:hover {
+    text-decoration: underline;
+  }
+
+  /* Pre‑PhD section – simple open list, one line per course */
   .prephd-section {
     margin-top: 2rem;
-    padding-top: 0.5rem;
+    padding-top: 1rem;
     border-top: 1px solid #e2e8f0;
   }
 
-  .prephd-section summary {
+  .prephd-title {
     font-weight: 600;
-    font-size: 0.95rem;
-    cursor: pointer;
-    color: #4a627a;
-    background: #f8fafc;
-    padding: 0.5rem 1rem;
-    border-radius: 30px;
-    display: inline-block;
-    transition: background 0.1s;
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+    color: #2c3e4e;
   }
 
-  .prephd-section summary:hover {
-    background: #eef2f8;
-  }
-
-  .compact-list {
-    margin-top: 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    list-style: none;
+  .simple-list {
+    list-style-type: disc;
+    margin-left: 1.2rem;
     padding-left: 0;
   }
 
-  .compact-list li {
-    background: #f1f5f9;
-    padding: 0.2rem 0.8rem;
-    border-radius: 30px;
-    font-size: 0.8rem;
-    color: #1e3a5f;
-    display: inline-block;
-    border: none;
-    box-shadow: none;
+  .simple-list li {
+    margin-bottom: 0.35rem;
+    font-size: 0.9rem;
+    color: #2c3e4e;
   }
 
-  .compact-list li strong {
+  .simple-list li strong {
     font-weight: 600;
-  }
-
-  /* remove any fancy hover on these list items */
-  .compact-list li:hover {
-    background: #e6edf4;
-    transform: none;
-    box-shadow: none;
   }
 
   @media (max-width: 640px) {
@@ -133,40 +113,38 @@ calendar: true
   }
 </style>
 
-<!-- CEMFI – important, prominent cards -->
+<!-- CEMFI – important, prominent cards (not clickable) -->
 <div class="cemfi-grid">
-  <div class="cemfi-card" onclick="location.href='#cemfi-energy';">
+  <div class="cemfi-card">
     <div class="uni-badge-important">🇪🇸 CEMFI · Graduate TA</div>
     <div class="course-title-important">Energy Economics</div>
     <div class="instructor-important">Natalia Fabra</div>
-    <div class="pdf-link-placeholder">
+    <div class="pdf-links">
       <a href="#">📄 Slides (soon)</a>
       <a href="#">📊 Evaluations (soon)</a>
     </div>
   </div>
 
-  <div class="cemfi-card" onclick="location.href='#cemfi-regulation';">
+  <div class="cemfi-card">
     <div class="uni-badge-important">🇪🇸 CEMFI · Graduate TA</div>
     <div class="course-title-important">Regulation & Competition Policy</div>
     <div class="instructor-important">Gerard Llobet</div>
-    <div class="pdf-link-placeholder">
+    <div class="pdf-links">
       <a href="#">📄 Slides (soon)</a>
       <a href="#">📊 Evaluations (soon)</a>
     </div>
   </div>
 </div>
 
-<!-- Pre‑PhD TAships (Sabancı) – compact, collapsible, less space -->
+<!-- Pre‑PhD Teaching Assistantships (Sabancı) – open list, one line each -->
 <div class="prephd-section">
-  <details>
-    <summary>📚 Pre‑PhD Teaching Assistantships (Sabancı University, 7 courses)</summary>
-    <ul class="compact-list">
-      <li><strong>Microeconomics II (grad)</strong> – Eren Inci</li>
-      <li><strong>Industrial Organization (undergrad)</strong> – Esra Durceylan Kaygusuz</li>
-      <li><strong>Macroeconomics I (grad)</strong> – Emrahan Aktug</li>
-      <li><strong>Microeconomics (undergrad)</strong> – Yusuf Emre Akgunduz</li>
-      <li><strong>Game Theory (undergrad)</strong> – Mehmet Barlo</li>
-      <li><strong>Advanced Microeconomics (undergrad)</strong> – Mehmet Barlo</li>
-    </ul>
-  </details>
+  <div class="prephd-title">📖 Pre‑PhD Teaching Assistantships · Sabancı University</div>
+  <ul class="simple-list">
+    <li><strong>Microeconomics II (graduate)</strong> – Eren Inci</li>
+    <li><strong>Industrial Organization (undergraduate)</strong> – Esra Durceylan Kaygusuz</li>
+    <li><strong>Macroeconomics I (graduate)</strong> – Emrahan Aktug</li>
+    <li><strong>Microeconomics (undergraduate)</strong> – Yusuf Emre Akgunduz</li>
+    <li><strong>Game Theory (undergraduate)</strong> – Mehmet Barlo</li>
+    <li><strong>Advanced Microeconomics (undergraduate)</strong> – Mehmet Barlo</li>
+  </ul>
 </div>
