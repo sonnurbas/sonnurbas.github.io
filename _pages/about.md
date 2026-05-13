@@ -1,30 +1,11 @@
 ---
-layout: about
+layout: page
 title: about
 permalink: /
-
-profile:
-  align: left
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>Calle Casado del Alisal, 5</p>
-    <p>Madrid, 28014</p>
-
-social: true
-
-full_width: true
-sidebar: false
-
-selected_papers: false
-social: true
-announcements:
-  enabled: false
-latest_posts:
-  enabled: false
+nav: true
+nav_order: 1
 ---
 
-<!-- Main page: clean two-column layout with modern typography -->
 <style>
   .about-container {
     display: flex;
@@ -80,16 +61,6 @@ latest_posts:
   .email-link:hover {
     text-decoration: underline;
   }
-  .research-interest {
-    margin-top: 1.5rem;
-    padding-top: 0.5rem;
-    border-top: 1px solid #e9edf2;
-    font-size: 0.9rem;
-    color: #4a627a;
-  }
-  .research-interest strong {
-    color: #1e2a3e;
-  }
   @media (max-width: 600px) {
     .about-container {
       flex-direction: column;
@@ -106,7 +77,6 @@ latest_posts:
 
 <div class="about-container">
   <div class="about-image">
-    <!-- The image path is taken from your front matter: profile.image = prof_pic.jpg -->
     <img src="/assets/images/prof_pic.jpg" alt="Sonnur Bas">
   </div>
   <div class="about-text">
@@ -119,11 +89,6 @@ latest_posts:
       <a href="/cv/" class="btn-cv">📄 View my CV</a>
       <a href="mailto:sonnur.bas@cemfi.edu.es" class="email-link">✉️ sonnur.bas@cemfi.edu.es</a>
     </div>
-    <div class="research-interest">
-      <strong>Research interests:</strong> Industrial Organization, Energy Economics, Market Design.
-    </div>
+    <!-- No research interests line, no address, no extra name -->
   </div>
 </div>
-
-<!-- The social links (if enabled in front matter) will be rendered automatically by your theme.
-     If not, you can add a simple social row here -->
