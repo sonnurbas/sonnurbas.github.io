@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: ""
 permalink: /
 nav: true
 nav_order: 1
@@ -77,7 +77,7 @@ nav_order: 1
 
 <div class="about-container">
   <div class="about-image">
-    <img src="/assets/images/prof_pic.jpg" alt="Sonnur Bas">
+    <img src="/assets/img/prof_pic.jpg" alt="Sonnur Bas">
   </div>
   <div class="about-text">
     <div class="intro-text">
