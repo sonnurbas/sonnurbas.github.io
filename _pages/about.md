@@ -66,6 +66,10 @@ nav_order: 1
       flex-direction: column;
       align-items: center;
     }
+    .about-image {
+      flex: 0 0 120px;  /* smaller on mobile */
+      max-width: 120px;
+    }
     .about-text {
       text-align: center;
     }
