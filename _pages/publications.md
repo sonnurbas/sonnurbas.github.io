@@ -112,18 +112,7 @@ nav_order: 2
     </div>
   </div>
   <!-- Future projects: add another <div class="research-card"> here, it will appear below -->
-  <div class="research-card">
-    <div class="project-title">Greenwashed? Tracking Sustainability Narratives in Big
-Oil</div>
-    <div class="project-description">
-      This study develops a data-driven framework to detect greenwashing in major oil and gas companies by analyzing the relationship between corporate sustainability communication and ESG performance. Using a dataset of over 2,000 scraped press releases and news articles, we apply sentiment analysis to quantify sustainability-related language. These textual features are combined with monthly ESG ratings and financial indicators, including oil prices and stock returns, to build an integrated empirical dataset. We showed that corporate sustainability language is closely linked to ESG performance, but may also reflect strategic communication rather than substantive environmental improvement. Overall, the findings provide evidence consistent with potential greenwashing and demonstrate a scalable approach for monitoring corporate sustainability claims over time.
-    </div>
-    <div class="research-links">
-      <a href="#">📄 PDF (coming soon)</a>
-      <a href="#">📊 Slides (coming soon)</a>
-      <a href="#">📁 Code / Data (coming soon)</a>
-    </div>
-  </div>
+  
 </div>
 
 
