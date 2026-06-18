@@ -116,22 +116,25 @@ calendar: true
 <!-- CEMFI – important, prominent cards (not clickable) -->
 <div class="cemfi-grid">
   <div class="cemfi-card">
-    <div class="uni-badge-important">🇪🇸 CEMFI · Graduate TA</div>
+    <div class="uni-badge-important">CEMFI · Graduate TA</div>
     <div class="course-title-important">Energy Economics</div>
     <div class="instructor-important">Natalia Fabra</div>
     <div class="pdf-links">
-      <a href="#">📄 Slides (soon)</a>
-      <a href="#">📊 Evaluations (soon)</a>
+
+      <a href="/assets/pdf/bas_eval_energy_fall25.pdf" target="_blank">
+  📊 Evaluations
+</a>
     </div>
   </div>
 
   <div class="cemfi-card">
-    <div class="uni-badge-important">🇪🇸 CEMFI · Graduate TA</div>
+    <div class="uni-badge-important">CEMFI · Graduate TA</div>
     <div class="course-title-important">Regulation & Competition Policy</div>
     <div class="instructor-important">Gerard Llobet</div>
     <div class="pdf-links">
-      <a href="#">📄 Slides (soon)</a>
-      <a href="#">📊 Evaluations (soon)</a>
+      <a href="/assets/pdf/bas_eval_regulation_fall25.pdf" target="_blank">
+  📊 Evaluations
+</a>
     </div>
   </div>
 </div>
