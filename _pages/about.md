@@ -85,10 +85,10 @@ nav_order: 1
   </div>
   <div class="about-text">
     <div class="intro-text">
-      Hi! I’m <strong>Sonnur Bas</strong>, a third-year PhD student at <a href="https://cemfi.es/" target="_blank">CEMFI</a>, working under the supervision of <a href="https://nataliafabra.org/" target="_blank">Natalia Fabra</a>. <br>
+      Hi! I am a PhD candidate in the Firms & Markets Group at <a href="https://cemfi.es/" target="_blank">CEMFI</a>, working under the supervision of <a href="https://nataliafabra.org/" target="_blank">Natalia Fabra</a>. <br>
 
       My research focuses on <strong>Industrial Organization</strong> with a particular emphasis on <strong>Energy Economics</strong>.  
-      I’m interested in understanding market dynamics and policy impacts in the energy sector.
+      I am interested in the design of energy markets and the role of public policy in shaping competition and economic outcomes.
     </div>
     <div class="cv-email">
       <a href="/cv/" class="btn-cv">📄 View my CV</a>
