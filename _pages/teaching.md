@@ -150,4 +150,10 @@ calendar: true
     <li><strong>Game Theory (undergraduate)</strong> – Mehmet Barlo</li>
     <li><strong>Advanced Microeconomics (undergraduate)</strong> – Mehmet Barlo</li>
   </ul>
+
+  <div class="prephd-title">📖 Pre‑PhD Teaching Assistantships · Bogazici University</div>
+  <ul class="simple-list">
+    <li><strong>Special Topics in Taxation (undergraduate)</strong> – Ayse Yeliz Kacamak</li>
+    <li><strong>Public Finance (undergraduate)</strong> – Ayse Yeliz Kacamak</li>
+  </ul>
 </div>
